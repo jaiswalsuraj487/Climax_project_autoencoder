@@ -1,3 +1,2 @@
-# Climax_project_autoencoder
-
-I have performed SImple MLP autoencoder on all channels one at a time, predicting one channel as output. Use data loading and preprocessing and dataset splits as in the code below to have results on uniform metrics.
+# Image-to-Image Deep Learning for Climate and Weather  Modelling
+We have implemented MLP autoencoder, CNN autoencoder, and UNET autoencoder.
